@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="NewTrips.xsd" generated="2013-03-22T09:32:13">
+<NewTrips>
+<TripNo>1</TripNo>
+<TripName>Branson Bird Watchers</TripName>
+<NewTripStartDate>2015-07-06T00:00:00</NewTripStartDate>
+<Duration>2</Duration>
+<City>Branson</City>
+<StateAbbrev>MO</StateAbbrev>
+<Category>Adventure</Category>
+<Price>200</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>2</TripNo>
+<TripName>Spyder Lovers</TripName>
+<NewTripStartDate>2015-07-06T00:00:00</NewTripStartDate>
+<Duration>4</Duration>
+<City>Cuba</City>
+<StateAbbrev>MO</StateAbbrev>
+<Category>Adventure</Category>
+<Price>300</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>3</TripNo>
+<TripName>Fred Fan Club</TripName>
+<NewTripStartDate>2015-07-02T00:00:00</NewTripStartDate>
+<Duration>7</Duration>
+<City>Ames</City>
+<StateAbbrev>IA</StateAbbrev>
+<Category>Adventure</Category>
+<Price>100</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>4</TripNo>
+<TripName>Order of the Arrow Conclave</TripName>
+<NewTripStartDate>2015-07-13T00:00:00</NewTripStartDate>
+<Duration>7</Duration>
+<City>Des Moines</City>
+<StateAbbrev>IA</StateAbbrev>
+<Category>Adventure</Category>
+<Price>500</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>5</TripNo>
+<TripName>Aspen Biking Trip</TripName>
+<NewTripStartDate>2015-07-15T00:00:00</NewTripStartDate>
+<Duration>10</Duration>
+<City>Aspen</City>
+<StateAbbrev>CO</StateAbbrev>
+<Category>Adventure</Category>
+<Price>1200</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>6</TripNo>
+<TripName>Collegiate Bass Fishing Tripnament</TripName>
+<NewTripStartDate>2015-04-11T00:00:00</NewTripStartDate>
+<Duration>3</Duration>
+<City>Ridgedale</City>
+<StateAbbrev>MO</StateAbbrev>
+<Category>Family</Category>
+<Price>200</Price>
+</NewTrips>
+<NewTrips>
+<TripNo>7</TripNo>
+<TripName>Art in the Ozarks</TripName>
+<NewTripStartDate>2015-03-13T00:00:00</NewTripStartDate>
+<Duration>7</Duration>
+<City>Hollister</City>
+<StateAbbrev>MO</StateAbbrev>
+<Category>Adventure</Category>
+<Price>250</Price>
+</NewTrips>
+</dataroot>
